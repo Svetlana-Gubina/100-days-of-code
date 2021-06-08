@@ -12,3 +12,8 @@ The log of my #100DaysOfCode challenge. Started on [June 7, Monday, 2021].
 2. [Inventory Update] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
 
 ### R1D2
+**Today's Progress**:
+Finished Inventory Update task, need some research for the next task No Repeats Please (about Heap's algorithm).
+
+**Link(s) to work**
+1. [Inventory Update] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)

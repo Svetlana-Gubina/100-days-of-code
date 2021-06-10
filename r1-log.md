@@ -17,3 +17,14 @@ Finished Inventory Update task, need some research for the next task No Repeats 
 
 **Link(s) to work**
 1. [Inventory Update] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
+
+### R1D3
+Failed a day(
+
+### R1D4    
+**Today's Progress**:
+Finished No Repeats Please, started Pairwise
+
+**Link(s) to work**
+1. [No Repeats Please] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
+2. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)

@@ -28,3 +28,10 @@ Finished No Repeats Please, started Pairwise
 **Link(s) to work**
 1. [No Repeats Please] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
 2. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
+
+### R1D5
+**Today's Progress**:
+Still working on Pairwise.
+
+**Link(s) to work**
+1. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)

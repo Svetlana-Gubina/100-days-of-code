@@ -35,3 +35,11 @@ Still working on Pairwise.
 
 **Link(s) to work**
 1. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
+
+### R1D6
+**Today's Progress**:
+Resolved Pairwise, started next task Implement Bubble Sort.
+
+**Link(s) to work**
+1. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
+2. [Implement Bubble Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)

@@ -46,7 +46,7 @@ Resolved Pairwise, started next task Implement Bubble Sort.
 
 ### R1D7
 **Today's Progress**:
-Implemented Bubble Sort, stucked with Selection Sort.
+Implemented Bubble Sort & Selection Sort.
 
 **Link(s) to work**
 1. [Implement Bubble Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)

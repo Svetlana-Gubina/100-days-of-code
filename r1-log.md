@@ -43,3 +43,11 @@ Resolved Pairwise, started next task Implement Bubble Sort.
 **Link(s) to work**
 1. [Pairwise] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
 2. [Implement Bubble Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+
+### R1D7
+**Today's Progress**:
+Implemented Bubble Sort, stucked with Selection Sort.
+
+**Link(s) to work**
+1. [Implement Bubble Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+2. [Implement Selection Sort] https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort

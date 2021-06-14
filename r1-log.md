@@ -51,3 +51,10 @@ Implemented Bubble Sort & Selection Sort.
 **Link(s) to work**
 1. [Implement Bubble Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
 2. [Implement Selection Sort] https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort
+
+### R1D8
+**Today's Progress**:
+Worked on Insertion Sort, haven't succed yet.
+
+**Link(s) to work**
+1. [Implement Insertion Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)

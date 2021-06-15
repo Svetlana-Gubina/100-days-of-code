@@ -58,3 +58,11 @@ Worked on Insertion Sort, haven't succed yet.
 
 **Link(s) to work**
 1. [Implement Insertion Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
+
+### R1D8
+**Today's Progress**:
+Failed with Insertion Sort, needed to get help. Moved to the next task Implement Quick Sort.
+
+**Link(s) to work**
+1. [Implement Insertion Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
+2. [Implement Quick Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)

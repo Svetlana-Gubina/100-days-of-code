@@ -70,3 +70,10 @@ Failed with Insertion Sort, needed to get help. Moved to the next task Implement
 ### R1D9
 **Today's Progress**:
 Coding gym for 1,5 hours - practiced in loops and recursion, implemented custom map, filter, reduce, memoization.
+
+### R110
+**Today's Progress**:
+Repeate fibonacci and factorial
+
+**Link(s) to work**
+1. (./code_ex/loops-and-recursion.js)

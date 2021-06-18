@@ -54,4 +54,20 @@ function recursiveFibonacci(n) {
     return recursiveFibonacci(n - 1) + recursiveFibonacci(n - 2);
 }
 
-console.log(recursiveFibonacci(7));
+// console.log(recursiveFibonacci(7));
+
+function someFunction (previousValue, currentValue, index, array) {
+    return previousValue + currentValue;
+}
+
+function customReduce(array, reducer, initialValue=array[0]) {
+    let accumulator = initialValue;
+    array.forEach((it) => {
+        accumulator = reducer(accumulator, it, array);
+    });
+    
+    return accumulator;
+}
+
+// const arr = [1, 2, 3, 4, 5];
+// console.log(customReduce(arr, someFunction, 0));

@@ -73,7 +73,15 @@ Coding gym for 1,5 hours - practiced in loops and recursion, implemented custom 
 
 ### R110
 **Today's Progress**:
-Repeate fibonacci and factorial
+Repeat fibonacci and factorial
 
 **Link(s) to work**
 1. (./code_ex/loops-and-recursion.js)
+
+### R111
+**Today's Progress**:
+Repeat custom reduce, tried to implement Quick Sort, have some mistake with recursion.
+
+**Link(s) to work**
+1. (./code_ex/loops-and-recursion.js)
+2. [Implement Quick Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)

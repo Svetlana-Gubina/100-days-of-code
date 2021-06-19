@@ -85,3 +85,11 @@ Repeat custom reduce, tried to implement Quick Sort, have some mistake with recu
 **Link(s) to work**
 1. (./code_ex/loops-and-recursion.js)
 2. [Implement Quick Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
+
+### R112
+**Today's Progress**:
+Implement Quick Sort, started next task Merge Sort
+
+**Link(s) to work**
+1. [Implement Quick Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
+2. [Implement Merge Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)

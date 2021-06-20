@@ -93,3 +93,10 @@ Implement Quick Sort, started next task Merge Sort
 **Link(s) to work**
 1. [Implement Quick Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
 2. [Implement Merge Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
+
+### R113
+**Today's Progress**:
+Still struggling with Merge Sort.
+
+**Link(s) to work**
+1. [Implement Merge Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)

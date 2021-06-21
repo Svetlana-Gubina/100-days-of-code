@@ -104,6 +104,7 @@ Still struggling with Merge Sort.
 ### R114
 **Today's Progress**:
 Read an article about merge sort, code seems to work, but FCC tests failed, trying to find another approach.
+Update: finished Merge Sort
 
 **Link(s) to work**
 1. [Implement Merge Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)

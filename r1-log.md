@@ -108,3 +108,11 @@ Update: finished Merge Sort
 
 **Link(s) to work**
 1. [Implement Merge Sort] (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
+
+### R115
+**Today's Progress**:
+Have got acquainted with typed arrays.
+
+**Link(s) to work**
+1. [Typed Arrays] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
+2. [Learn how a Stack Works] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)

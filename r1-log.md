@@ -116,3 +116,8 @@ Have got acquainted with typed arrays.
 **Link(s) to work**
 1. [Typed Arrays] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
 2. [Learn how a Stack Works] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)
+
+### R116
+**Today's Progress**:
+Coding gym 
+(flatten array, custom reduce, moveZeros (to the end of the array)).

@@ -121,3 +121,10 @@ Have got acquainted with typed arrays.
 **Today's Progress**:
 Coding gym 
 (flatten array, custom reduce, moveZeros (to the end of the array)).
+
+### R117
+**Today's Progress**:
+Sorting task WIP
+
+**Link(s) to work**
+1. [Sorting] (./code_ex/sort-by-count.js) 

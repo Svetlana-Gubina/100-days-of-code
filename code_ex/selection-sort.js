@@ -1,13 +1,13 @@
 function selectionSort(array) {
 
     for(let i = 0; i < array.length; i++) {
-        let min = Math.min.apply(null, array.slice(i));
-		let minIndex = array.slice(i).findIndex((elem) => elem === min);
-		if(array[i] !== min) {
-			let temp = array[i];
-			array[i] = min;
-			array[minIndex + i] = temp;
-		}
+      let min = Math.min.apply(null, array.slice(i));
+		  let minIndex = array.slice(i).findIndex((elem) => elem === min);
+		  if(array[i] !== min) {
+		  	let temp = array[i];
+		  	array[i] = min;
+		  	array[minIndex + i] = temp;
+		  }
     }
 
     return array;

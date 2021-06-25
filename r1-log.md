@@ -128,3 +128,10 @@ Sorting task WIP
 
 **Link(s) to work**
 1. [Sorting] (./code_ex/sort-by-count.js) 
+
+### R118
+**Today's Progress**:
+Repeat selection sort and bubble sort, continue working on Sorting task(^)
+
+**Link(s) to work**
+1. [Sorting] (./code_ex/sort-by-count.js) 

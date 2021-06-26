@@ -134,4 +134,11 @@ Sorting task WIP
 Repeat selection sort and bubble sort, continue working on Sorting task(^)
 
 **Link(s) to work**
-1. [Sorting] (./code_ex/sort-by-count.js) 
+1. [Sorting] (./code_ex/sort-by-count.js)
+
+### R119
+**Today's Progress**:
+Continue working on Sorting task
+
+**Link(s) to work**
+1. [Sorting] (./code_ex/sort-by-count.js)

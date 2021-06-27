@@ -3,36 +3,32 @@ const words = ['apple', 'orange', 'banana', 'grapefruit', 'banana', 'grapefruit'
 // output => ['banana', 'banana', 'banana', 'banana', 'grapefruit', 'grapefruit', // 'orange', 'orange', 'apple' ] O(n)
 // Отсортировать по количеству вхождений в массив строк, если количсетво одинаковое тогда // по алфавиту
 
+const customSort = (words) => {
+    let finalResult = [];
 
-const customSortArray = (array) => {
-    let result = [];
-
-    let items = {};
-    for(let i of array) {
-        if(!items[i]) {
-            items[i] = 0;
-        }
-        items[i]++;
-    }
-    // console.log(items);
-
-    function sort() {
-        let max = Math.max.apply(null, Object.values(items));
-        // console.log(max);
-        for(let j of array) {
-            if(items[j] && items[j] === max) {
-                result = [...result, ...new Array(items[j]).fill(j)];
-                array = array.filter((it) => it !== j);
-                delete items[j];
-                sort();
+    const countMap = words.reduce(function(accumulator,currentvalue){
+        accumulator[currentvalue] = (accumulator[currentvalue]||0)+1; 
+        return accumulator;
+    }, {});
+    
+    while(Object.keys(countMap).length) {
+        let max = Math.max.apply(null, Object.values(countMap));
+        const result = Object.keys(countMap).filter(it => countMap[it] === max);
+        if(result.length < 2) {
+            finalResult = [...finalResult, ...new Array(max).fill(result[0])];
+        } else {
+            result.sort((a, b) => a.localeCompare(b));
+            for(let i of result) {
+                finalResult = [...finalResult, ...new Array(max).fill(i)];
             }
         }
-
-        return result;
+        
+        result.forEach((item) => {
+            delete countMap[item];
+        });
     }
     
-    return sort();
-
+    return finalResult;
 };
 
-console.log(customSortArray(words));
+console.log(customSort(words));

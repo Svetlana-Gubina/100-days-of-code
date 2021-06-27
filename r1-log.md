@@ -142,3 +142,10 @@ Continue working on Sorting task
 
 **Link(s) to work**
 1. [Sorting] (./code_ex/sort-by-count.js)
+
+### R120
+**Today's Progress**:
+Resolved Sorting task, but used sort() method for alphabetical sorting, gonna find out, was it ok or not.
+
+**Link(s) to work**
+1. [Sorting] (./code_ex/sort-by-count.js)

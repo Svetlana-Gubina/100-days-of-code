@@ -149,3 +149,16 @@ Resolved Sorting task, but used sort() method for alphabetical sorting, gonna fi
 
 **Link(s) to work**
 1. [Sorting] (./code_ex/sort-by-count.js)
+
+### R121
+**Today's Progress**:
+Coding gym (custom reverse, sort, map, reduce).
+
+### R122
+**Today's Progress**:
+Keep working with Priority Queue Class.
+
+**Link(s) to work**
+1. [Create a Stack Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-stack-class)
+2. [Create a Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-queue-class)
+3. [Create a Priority Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)

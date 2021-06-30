@@ -162,3 +162,10 @@ Keep working with Priority Queue Class.
 1. [Create a Stack Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-stack-class)
 2. [Create a Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-queue-class)
 3. [Create a Priority Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
+
+### R123
+**Today's Progress**:
+Still working with Priority Queue Class - saw the hint, but it's not clear(.
+
+**Link(s) to work**
+1. [Create a Priority Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)

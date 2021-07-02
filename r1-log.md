@@ -170,6 +170,8 @@ Still working with Priority Queue Class - saw the hint, but it's not clear(.
 **Link(s) to work**
 1. [Create a Priority Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
 
+**Day missed**
+
 ### R124
 Realizations of Priority Queue seems to be different>:(. Had to copy FCC desision to pass tests. Started next task.
 

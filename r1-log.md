@@ -178,3 +178,12 @@ Realizations of Priority Queue seems to be different>:(. Had to copy FCC desisio
 **Link(s) to work**
 1. [Create a Priority Queue Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
 2. [Create a Circular Queue] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
+
+### R125
+**Today's Progress**:
+Tasks from CodeWars
+
+**Link(s) to work**
+1. [Dubstep] (./code_ex/dubstep.js)
+2. [Последний выживший] (./code_ex/last-survivor.js)
+3. [Кошачьи и собачьи года] (./code_ex/cats-and-dogs.js)

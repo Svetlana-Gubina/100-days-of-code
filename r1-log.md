@@ -187,3 +187,10 @@ Tasks from CodeWars
 1. [Dubstep] (./code_ex/dubstep.js)
 2. [Последний выживший] (./code_ex/last-survivor.js)
 3. [Кошачьи и собачьи года] (./code_ex/cats-and-dogs.js)
+
+### R126
+**Today's Progress**:
+Resolve Circular Queue with a hint from FCC.
+
+**Link(s) to work**
+1. [Create a Circular Queue] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)

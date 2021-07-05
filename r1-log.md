@@ -194,3 +194,12 @@ Resolve Circular Queue with a hint from FCC.
 
 **Link(s) to work**
 1. [Create a Circular Queue] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
+
+### R127
+**Today's Progress**:
+Perform a Union on Two Sets WIP.
+
+**Link(s) to work**
+1. [Create a Set Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class)
+2. [Perform a Union on Two Sets] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
+

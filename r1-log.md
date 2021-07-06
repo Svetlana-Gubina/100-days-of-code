@@ -203,3 +203,11 @@ Perform a Union on Two Sets WIP.
 1. [Create a Set Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class)
 2. [Perform a Union on Two Sets] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
 
+### R128
+**Today's Progress**:
+Resolved Perform a Union on Two Sets with a hint from FCC - class from task works slightly different than original Set.
+
+**Link(s) to work**
+1. [Perform a Union on Two Sets] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
+2. [Perform an Intersection on Two Sets of Data] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
+3. [Perform a Difference on Two Sets of Data] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-difference-on-two-sets-of-data)

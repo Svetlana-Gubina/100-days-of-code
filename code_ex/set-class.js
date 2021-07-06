@@ -39,8 +39,34 @@ class Set {
     }
     
     union(anotherSet) {
-      let union = [...this.values()];
-      console.log(union);
+      let newSet = new Set();
+      for(let item of this.values()) {
+        newSet.add(item);
+      }
+      for(let item of anotherSet.values()) {
+        newSet.add(item);
+      }
+      return newSet;
+    }
+
+    intersection(anotherSet) {
+      let newSet = new Set();
+      for(let item of anotherSet.values()) {
+        if(this.has(item)) {
+          newSet.add(item);
+        }
+      }
+      return newSet;
+    }
+
+    difference(anotherSet) {
+      let newSet = new Set();
+      for(let item of anotherSet.values()) {
+        if(!this.has(item)) {
+          newSet.add(item);
+        }
+      }
+      return newSet;
     }
     // Only change code above this line
 }
@@ -51,9 +77,7 @@ setA.add('b');
 setA.add('c');
 
 const setB = new Set();
-setB.add('a');
-setB.add('b');
+setB.add('c');
 setB.add('d');
-setB.add('e');
 
-console.log(setA.union(setB));
+console.log(setA.difference(setB));

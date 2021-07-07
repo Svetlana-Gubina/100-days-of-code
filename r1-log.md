@@ -211,3 +211,7 @@ Resolved Perform a Union on Two Sets with a hint from FCC - class from task work
 1. [Perform a Union on Two Sets] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
 2. [Perform an Intersection on Two Sets of Data] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
 3. [Perform a Difference on Two Sets of Data] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-difference-on-two-sets-of-data)
+
+### R129
+**Today's Progress**:
+Codyng gym (js interview tasks, topic - this, context).

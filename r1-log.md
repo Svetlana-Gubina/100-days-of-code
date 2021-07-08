@@ -215,3 +215,15 @@ Resolved Perform a Union on Two Sets with a hint from FCC - class from task work
 ### R129
 **Today's Progress**:
 Codyng gym (js interview tasks, topic - this, context).
+
+### R130
+**Today's Progress**:
+Work with Set & Map.
+
+**Link(s) to work**
+1. [Perform a Subset Check on Two Sets of Data] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-subset-check-on-two-sets-of-data)
+2. [Create and Add to Sets in ES6] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-and-add-to-sets-in-es6)
+3. [Remove items from a set in ES6] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-items-from-a-set-in-es6)
+4. [Use .has and .size on an ES6 Set] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set)
+5. [Use Spread and Notes for ES5 Set() Integration] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
+6. [Create a Map Data Structure] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure)

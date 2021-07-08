@@ -68,16 +68,25 @@ class Set {
       }
       return newSet;
     }
+
+    isSubsetOf(set) {
+      if(this.intersection(set).size() === this.size()) {
+        return true;
+      } else {
+        return false;
+      }
+    }
     // Only change code above this line
 }
 
 const setA = new Set();
 setA.add('a');
 setA.add('b');
-setA.add('c');
 
 const setB = new Set();
+setB.add('a');
+setB.add('b');
 setB.add('c');
 setB.add('d');
 
-console.log(setA.difference(setB));
+console.log(setB.isSubsetOf(setA));

@@ -227,3 +227,11 @@ Work with Set & Map.
 4. [Use .has and .size on an ES6 Set] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set)
 5. [Use Spread and Notes for ES5 Set() Integration] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
 6. [Create a Map Data Structure] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure)
+
+### R130
+**Today's Progress**:
+Continue working with Create a Hash Table.
+
+**Link(s) to work**
+1. [Create an ES6 JavaScript Map] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-an-es6-javascript-map)
+2. [Create a Hash Table] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)

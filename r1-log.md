@@ -235,3 +235,12 @@ Continue working with Create a Hash Table.
 **Link(s) to work**
 1. [Create an ES6 JavaScript Map] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-an-es6-javascript-map)
 2. [Create a Hash Table] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
+
+### R131
+**Today's Progress**:
+Very slow progress - it's too hot in SPb, but - I used recursion in a right way).
+
+**Link(s) to work**
+1. [Create a Hash Table] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
+2. [Work with Nodes in a Linked List] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/work-with-nodes-in-a-linked-list)
+3. [Create a Linked List Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class)

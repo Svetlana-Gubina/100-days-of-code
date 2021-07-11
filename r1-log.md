@@ -244,3 +244,10 @@ Very slow progress - it's too hot in SPb, but - I used recursion in a right way)
 1. [Create a Hash Table] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
 2. [Work with Nodes in a Linked List] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/work-with-nodes-in-a-linked-list)
 3. [Create a Linked List Class] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class)
+
+### R131
+**Today's Progress**:
+Struggle with removing elements from a Linked List (no such element error handling).
+
+**Link(s) to work**
+1. [Remove Elements from a Linked List] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list)

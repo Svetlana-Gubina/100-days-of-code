@@ -33,6 +33,35 @@ function LinkedList() {
         lastNode.next = newItem;
         length++;
       }
-      // Only change code above this line
+
+      // this.add = function(element){
+        // var node = new Node(element);
+        // if(head === null){
+            // head = node;
+        // } else {
+          // var currentNode = head;
+          // while(currentNode.next){
+            // currentNode  = currentNode.next;
+          // }
+          // currentNode.next = node;
+        // }
+        // length++;
+      // };
+
+      this.remove = function(element){
+        if(element === head) {
+          let newHead = head.next;
+          head = newHead;
+        } else {
+          var currentNode = head;
+
+          while(currentNode.next !== element){
+            currentNode  = currentNode.next;
+          }
+
+          currentNode.next = element.next;
+        }
+        length--;
+      };
     };
   }

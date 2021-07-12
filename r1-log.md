@@ -251,3 +251,7 @@ Struggle with removing elements from a Linked List (no such element error handli
 
 **Link(s) to work**
 1. [Remove Elements from a Linked List] (https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list)
+
+### R132
+**Today's Progress**:
+Coding gym (interview tasks)

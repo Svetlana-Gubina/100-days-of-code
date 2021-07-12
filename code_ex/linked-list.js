@@ -48,20 +48,18 @@ function LinkedList() {
         // length++;
       // };
 
-      this.remove = function(element){
-        if(element === head) {
+    this.remove = function(element){
+        if(head.element === null){
+          throw new Error('No nodes in list');
+      }
+  
+      if(element === head.element) {
           let newHead = head.next;
           head = newHead;
-        } else {
-          var currentNode = head;
+          return length--;
+      }  
 
-          while(currentNode.next !== element){
-            currentNode  = currentNode.next;
-          }
-
-          currentNode.next = element.next;
-        }
-        length--;
-      };
+      
+    };
     };
   }
